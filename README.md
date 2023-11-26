@@ -1,5 +1,5 @@
-# ORMlearning
-# 100x Microblogging Platform
+
+# 100x Microblogging Platform ORM Setup
 
 This repository contains the implementation of a microblogging platform, similar to Twitter, using Node.js and Sequelize ORM. The platform supports basic functionalities such as user management, posting, following, liking, and replying to posts.
 
@@ -45,5 +45,5 @@ A step-by-step series of examples that tell you how to get a development environ
 
 4. Set up your database configuration in config/config.json.
 5. Run the database migrations:
-6. npx sequelize-cli db:migrate
+    npx sequelize-cli db:migrate
 
